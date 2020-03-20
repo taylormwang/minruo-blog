@@ -36,6 +36,7 @@ tags: []
 晚上刷朋友圈的时候，从Fei姐那里了解到一个很不错的[美国COVID-19 tracking网站](https://covidtracking.com/data/?from=singlemessage&isappinstalled=0)，包含各州检测数和确诊数。**之后可以连接API做一些数据分析**。截止3/20 05:19 ET,纽约州测了22,284个人有4,152个确诊，比例实在很高😢。
 
 在LinkedIn上偶然发现涵在Medium上写了[用R做疫情数据分析](https://towardsdatascience.com/visualize-the-pandemic-with-r-covid-19-c3443de3b4e4)的文章，觉得好棒。LinkedIn上也有人转发了她的post，说：
+
 > "I am amazed by the creative ways today’s students are marketing themselves.
 Using your skills to continue and push forward your learning and adding value, and building your resume at the same time."
 

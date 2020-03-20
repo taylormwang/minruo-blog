@@ -8,9 +8,7 @@ categories:
 tags: []
 ---
 
-凌晨看太久手机，起床之后眼睛不适，滴了眼药水还是没有缓解，决定今天少看手机和电脑。于是午饭后喝了杯咖啡，打算打开forest，放下手机开始好好看教材，边看边做笔记试图理解内容的同时一个半小时没读几页。看了牟姐姐《我们还需要实体公共空间吗？》的文章有好多共鸣，她对自己的经历和想做的有清楚的觉察，也对社会问题看得比我透彻许多，而且文字组织能力好强，我想说的她都能用语言清楚有逻辑地表达出来，一看就是爱读书之人！
-
-[我们还需要实体公共空间吗？ | 有为之思](https://mp.weixin.qq.com/s/w0CqaRc8GjEPRcEMWB3iJA)
+凌晨看太久手机，起床之后眼睛不适，滴了眼药水还是没有缓解，决定今天少看手机和电脑。于是午饭后喝了杯咖啡，打算打开forest，放下手机开始好好看教材，边看边做笔记试图理解内容的同时一个半小时没读几页。看了牟姐姐《[我们还需要实体公共空间吗？](https://mp.weixin.qq.com/s/w0CqaRc8GjEPRcEMWB3iJA)》的文章有好多共鸣，她对自己的经历和想做的有清楚的觉察，也对社会问题看得比我透彻许多，而且文字组织能力好强，我想说的她都能用语言清楚有逻辑地表达出来，一看就是爱读书之人！
 
 开始思考自己的知识基础之薄弱，也想像她一样多读书，于是翻起了kindle开始看钱穆先生的《中国历代政治得失》，页数不多又好读。水喝太多想吃点有味道的东西，于是边吃薯片边看，实在是双重满足。想多留些时间给自己读读书啊！
 
@@ -30,6 +28,6 @@ tags: []
 
 晚上看了Trevor Noah的一个[访谈视频](https://www.weibo.com/3973989639/Izd8dDeC8?type=comment)，讲自己在接手The Daily Show之前的各种惶恐不安念头，这时他终于读懂(make sense)了那句诗：
 
-> "***Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us.** We ask ourselves, Who am I to be brilliant, gorgeous, talented, and fabulous? Actually, who are you not to be? You are a child of God. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people will not feel insecure around you. We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It is not just in some of us; it is in everyone and as we let our own light shine, we unconsciously give others permission to do the same. As we are liberated from our own fear, our presence automatically liberates others.*" - Marianne Williamson
+> *"**Our deepest fear is not that we are inadequate. Our deepest fear is that we are powerful beyond measure. It is our light, not our darkness that most frightens us.** We ask ourselves, Who am I to be brilliant, gorgeous, talented, and fabulous? Actually, who are you not to be? You are a child of God. Your playing small does not serve the world. There is nothing enlightened about shrinking so that other people will not feel insecure around you. We are all meant to shine, as children do. We were born to make manifest the glory of God that is within us. It is not just in some of us; it is in everyone and as we let our own light shine, we unconsciously give others permission to do the same. As we are liberated from our own fear, our presence automatically liberates others."* - Marianne Williamson
 
 Trevor说，退缩离开、说反正我也不想做这个实在是太容易了，那样就永远不需要承担责任。但一旦克服恐惧做了就发现没那么糟糕，然后会渐入佳境享受其中，虽然还是会紧张，但会逐渐进入状态。

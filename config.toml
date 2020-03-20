@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Posts"
     url = "/post/"
 [[menu.main]]
-    name = "Github"
+    name = "Vitae"
     url = "https://github.com/taylormwang"
 
 [params]

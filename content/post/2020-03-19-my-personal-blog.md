@@ -42,3 +42,5 @@ Using your skills to continue and push forward your learning and adding value, a
 今天买了一个域名，然后用 [R 语言的`blogdown`+`hugo`+`netlify`+`github` 建了自己的网站](https://cosx.org/2018/01/build-blog-with-blogdown-hugo-netlify-github/)。在`hugo`网站上看到了[fancy的template](https://themes.gohugo.io/kross-hugo-portfolio-template/)，要用`forestry`部署，结果虽然在模板上挂了[自己的域名](https://minruowang.com/)，却不知道该怎么跑，最后又退回`hugo`的经典主题`hugo-lithium`，建了一个简单的网站，但至少知道要怎么编辑，还是挺开心的！
 
 今晚对阿棋说话的时候态度不好，那时我自己内心也不太安宁，想用RStudio部署个人网站，但因为对于网页开发不了解，花了很多时间却没有什么产出，有些郁闷烦躁，开始怀疑自己是否有必要投入时间做这些。自我安慰刚好这学期的CSEG客户[Knology](https://knology.org/)用的就是Netlify+DatoCMS部署的网站，也算是自己先做一遍，有个大概的了解。
+
+在GitLab上看到了`config. toml`的编写文档，期待之后让这个小站更丰富！

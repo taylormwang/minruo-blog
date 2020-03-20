@@ -13,11 +13,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     url = "/about/"
 [[menu.main]]
-    name = "Posts"
+    name = "Blog"
     url = "/post/"
 [[menu.main]]
-    name = "Vitae"
+    name = "Github"
     url = "https://github.com/taylormwang"
+[[menu.main]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/taylorwang1013/"
 
 [params]
     description = "A website built through Hugo and blogdown."
@@ -33,10 +36,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
     # path to the favicon, under "static"
     favicon = "favicon-01.ico"
-
+    
     [params.logo]
     url = "logo-01.png"
     width = 50
     height = 50
     alt = "Logo"
 
+   
